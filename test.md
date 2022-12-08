@@ -58,8 +58,8 @@ reviewer和approver通常配置在代码库的owners文件中，身份的取得�
 
 **一个PR顺利合入的流程图：**
 
-```
-flowchart TD
+```mermaid
+graph TD
     start(PR提交) -->B[ci/cla标签]-->C[can-review标签]
     C-->E[LGTM标签]
     C-->F[APPROVED标签]
