@@ -1,0 +1,77 @@
+{
+  "object_kind": "push",
+  "event_name": "push",
+  "before": "edb1b7c9a5d054ce85599dabd0c20fde22f6e455",
+  "after": "edb1b7c9a5d054ce85599dabd0c20fde22f6e455",
+  "ref": "refs/heads/main",
+  "checkout_sha": "edb1b7c9a5d054ce85599dabd0c20fde22f6e455",
+  "message": null,
+  "user_id": 12661404,
+  "user_name": "yang7513245",
+  "user_username": "yang7513245",
+  "user_email": null,
+  "user_avatar": "https://secure.gravatar.com/avatar/cceaa6dc6109617b8aeb6fba2b6a7695?s=80&d=identicon",
+  "project_id": 39806101,
+  "project": {
+    "id": 39806101,
+    "name": "test",
+    "description": null,
+    "web_url": "https://gitlab.com/yang7513245/test",
+    "avatar_url": null,
+    "git_ssh_url": "git@gitlab.com:yang7513245/test.git",
+    "git_http_url": "https://gitlab.com/yang7513245/test.git",
+    "namespace": "yang7513245",
+    "visibility_level": 0,
+    "path_with_namespace": "yang7513245/test",
+    "default_branch": "main",
+    "ci_config_path": "",
+    "homepage": "https://gitlab.com/yang7513245/test",
+    "url": "git@gitlab.com:yang7513245/test.git",
+    "ssh_url": "git@gitlab.com:yang7513245/test.git",
+    "http_url": "https://gitlab.com/yang7513245/test.git"
+  },
+  "commits": [
+    {
+      "id": "edb1b7c9a5d054ce85599dabd0c20fde22f6e455",
+      "message": "Initial commit",
+      "title": "Initial commit",
+      "timestamp": "2022-09-29T02:47:22+00:00",
+      "url": "https://gitlab.com/yang7513245/test/-/commit/edb1b7c9a5d054ce85599dabd0c20fde22f6e455",
+      "author": {
+        "name": "yang7513245",
+        "email": "[REDACTED]"
+      },
+      "added": [
+        "README.md"
+      ],
+      "modified": [
+
+      ],
+      "removed": [
+
+      ]
+    }
+  ],
+  "total_commits_count": 1,
+  "push_options": {
+  },
+  "repository": {
+    "name": "test",
+    "url": "git@gitlab.com:yang7513245/test.git",
+    "description": null,
+    "homepage": "https://gitlab.com/yang7513245/test",
+    "git_http_url": "https://gitlab.com/yang7513245/test.git",
+    "git_ssh_url": "git@gitlab.com:yang7513245/test.git",
+    "visibility_level": 0
+  }
+}
+
+
+
+
+Content-Type: application/json
+User-Agent: GitLab/15.8.0-pre
+X-Gitlab-Event: Push Hook
+X-Gitlab-Instance: https://gitlab.com
+X-Gitlab-Event-UUID: 6347c826-8c73-42a7-b2a3-4a961d88c557
+X-Gitlab-Token: [REDACTED]
